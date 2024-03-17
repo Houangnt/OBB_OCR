@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/88.jpg        	                         	0.2701
+demo_image/180.jpeg      	111                      	0.1070
+demo_image/180.jpg       	111                      	0.2062
+demo_image/180.png       	11                       	0.4038
+demo_image/242.jpeg      	4                        	0.5260
+demo_image/242.jpg       	34                       	0.3680
+demo_image/493960.jpg    	43336                    	0.2260
+demo_image/502750.jpg    	58275                    	0.0625
+demo_image/506368.jpg    	31816366                 	0.0273
+demo_image/509627.jpg    	5127                     	0.1200
+demo_image/515428.jpg    	6715431                  	0.0760
+demo_image/518892.jpg    	51111192                 	0.1127
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/88.jpg        	                         	0.2701
+demo_image/180.jpeg      	111                      	0.1070
+demo_image/180.jpg       	111                      	0.2062
+demo_image/180.png       	11                       	0.4038
+demo_image/242.jpeg      	4                        	0.5260
+demo_image/242.jpg       	34                       	0.3680
+demo_image/493960.jpg    	43336                    	0.2260
+demo_image/502750.jpg    	58275                    	0.0625
+demo_image/506368.jpg    	31816366                 	0.0273
+demo_image/509627.jpg    	5127                     	0.1200
+demo_image/515428.jpg    	6715431                  	0.0760
+demo_image/518892.jpg    	51111192                 	0.1127
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/506368.jpg    	31816366                 	0.0273
+demo_image/509627.jpg    	5127                     	0.1200
+demo_image/515428.jpg    	6715431                  	0.0760
+demo_image/518892.jpg    	51111192                 	0.1127
+demo_image/output-onlinetools_cropped_0.jpg	77                       	0.6781
+demo_image/output-onlinetools_cropped_1.jpg	230                      	0.2348

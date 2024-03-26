@@ -9,8 +9,8 @@ def crop_rotated_rectangle_with_points(image, points):
         diff = np.diff(points, axis=1)
         sorted_points = np.zeros((4, 2), dtype="float32")
         sorted_points[0] = points[np.argmin(s)]
-        sorted_points[2] = points[np.argmax(s)]
-        sorted_points[1] = points[np.argmin(diff)]
+        sorted_points[1] = points[np.argmax(s)]
+        sorted_points[2] = points[np.argmin(diff)]
         sorted_points[3] = points[np.argmax(diff)]
         return sorted_points
 

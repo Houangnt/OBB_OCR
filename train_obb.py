@@ -1,4 +1,4 @@
-rom ultralytics import YOLO
+from ultralytics import YOLO
 
 # Load a model
 model = YOLO('ocr.pt')  # load a pretrained model (recommended for training)

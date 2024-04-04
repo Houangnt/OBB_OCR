@@ -4,7 +4,6 @@
 conda create -n Obb_ocr python=3.8 <br>
 conda activate Obb_ocr <br>
 pip install -r requirements.txt <br>
-sudo apt-get install imagemagick <br>
 pip install ultralytics <br>
 ### Run demo with my model
 download weight for text detection in here: https://drive.google.com/file/d/1nGKdeEYGRi07_aIjR-PlqEi-XlDkMnlh/view?usp=drive_link <br>

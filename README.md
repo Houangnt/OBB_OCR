@@ -1,7 +1,7 @@
 ## Getting Started
 
 **Setup enviroment** <br>
-conda create -n Obb_ocr python=3.8 <br>
+conda create -n Obb_ocr python=3.10 <br>
 conda activate Obb_ocr <br>
 pip install -r requirements.txt <br>
 pip install ultralytics <br>

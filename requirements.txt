@@ -9,3 +9,4 @@ natsort
 opencv-python
 wand
 fire 
+fix

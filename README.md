@@ -9,3 +9,5 @@ pip install ultralytics <br>
 download weight for text detection in here: https://drive.google.com/file/d/1nGKdeEYGRi07_aIjR-PlqEi-XlDkMnlh/view?usp=drive_link <br>
 download weights for text recogniton in here: https://drive.google.com/file/d/1_pFmvyofaXoJz74CmTbMhWZ9CHStT7vk/view?usp=sharing <br>
 python3 demo.py --Transformation None --FeatureExtraction VGG --SequenceModeling BiLSTM --Prediction CTC --image_folder text_crop_image/ --saved_model Textrecognition.pth --imgH 32 --imgW 128 --output_channel 128 --hidden_size 128
+### Guide to train 
+https://colab.research.google.com/drive/1MBwofiFzA-jR_aY0bdmsgTGhs3n3H_5p?usp=sharing
